@@ -249,7 +249,7 @@ svg path {
      width: 0ch;
      overflow: hidden;
      white-space: nowrap;
-     animation: text 10s steps(67) forwards;
+     animation: text 10s steps(26) forwards;
      animation-delay: 2s;   
  }
  p{
@@ -290,11 +290,11 @@ svg path {
      }
 
      50% {
-         width: 67ch;
+         width: 26ch;
      }
 
      100% {
-         width: 67ch;
+         width: 26ch;
          border: none;
      }
  }
